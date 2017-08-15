@@ -1,13 +1,13 @@
 {
   "name": "crystalline",
   "version": "0.0.1",
-  "description": "A project for tracking the uses of various crystals",
+  "description": "A project for tracking the uses of various herbs",
   "main": "src/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "crystals"
+    "herbs"
   ],
   "author": "Dezzles",
   "license": "MIT",
